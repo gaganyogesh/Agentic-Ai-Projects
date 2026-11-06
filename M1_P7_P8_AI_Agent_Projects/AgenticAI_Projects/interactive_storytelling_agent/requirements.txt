@@ -1,0 +1,3 @@
+streamlit>=1.32
+# Optional for LLM-powered story generation:
+# openai>=1.30
